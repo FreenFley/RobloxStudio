@@ -16,9 +16,7 @@ Also you may not distribute the model incorporated in
 a derivative model (for instance, you may not made a modified
 version of it and sell it or distribute it).
 And you may not claim you are the creator or copyright holder
-of this model or these scripts.
-It is forbidden to remove this comment from the scripts.
-]]
+
 
 local player = game.Players.LocalPlayer
 
